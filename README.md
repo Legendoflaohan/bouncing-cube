@@ -1,2 +1,2 @@
 # bouncing-cube
-An approach of bouncing cube, contains physics.
+An approach of bouncing cube, contains physics, with requestAnimationFrame.
